@@ -52,4 +52,12 @@ This project is a simple motor control system implemented on an STM32 microcontr
 
 1. **Install STM32CubeIDE**: If you haven’t already, download and install STM32CubeIDE from the [STMicroelectronics website](https://www.st.com/en/development-tools/stm32cubeide.html).
    
-2. **Clone the Repository**: 
+2. **Clone the Repository**
+
+## Further Additions or Improvements
+While the current version provides a solid foundation, there are numerous ways you can improve and expand the functionality of the motor control system. This is just a preliminary base to learn the ARM Microcontroller architectures.
+1. **Adding Sensors to Trigger Motor Control**
+2. **Encoder Integration for Closed-Loop Control**
+3. **Advanced Motor Control Algorithms**
+4. **Real-time Monitoring and Diagnostics**
+And many more.
